@@ -1,0 +1,16 @@
+{
+  "name": "cmd",
+  "version": "1.0.0",
+  "description": "IDEA前台数据接口",
+  "main": "cmd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "IDE",
+    "数据",
+    "cmd"
+  ],
+  "author": "BLUE",
+  "license": "ISC"
+}

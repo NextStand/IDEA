@@ -1,0 +1,14 @@
+{
+  "name": "idea",
+  "version": "1.0.0",
+  "description": "\u0016IDEA前台核心类",
+  "main": "idea.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "idea"
+  ],
+  "author": "BLUE",
+  "license": "ISC"
+}

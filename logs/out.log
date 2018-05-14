@@ -1,0 +1,42 @@
+[master] start master...
+数据库连接成功
+[worker] start worker ...1
+OK
+数据库连接成功
+[worker] start worker ...2
+OK
+[worker] start worker ...3
+OK
+数据库连接成功
+数据库连接成功
+[worker] start worker ...4
+OK
+数据库连接成功
+[master] start master...
+数据库连接成功
+[worker] start worker ...2
+OK
+数据库连接成功
+[worker] start worker ...1
+OK
+数据库连接成功
+[worker] start worker ...3
+OK
+数据库连接成功
+[worker] start worker ...4
+OK
+数据库连接成功
+[master] start master...
+数据库连接成功
+[worker] start worker ...2
+OK
+数据库连接成功
+[worker] start worker ...1
+OK
+数据库连接成功
+[worker] start worker ...4
+OK
+数据库连接成功
+[worker] start worker ...3
+OK
+数据库连接成功

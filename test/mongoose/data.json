@@ -1,0 +1,57 @@
+[
+    {
+        "device"    : "iPhone SE",
+        "isSmart"   : "true",
+        "releaseTime" : "2016-03-21 10:00:00",
+        "price"   : 4999,
+        "apps"    : [{"name" : "Safari"}, {"name" : "Map"}, {"name" : "Tinder"}],
+        "manufacturer": {
+          "name"  : "Apple",
+          "country" : "The United States"
+        }
+      },
+      {
+        "device"    : "Huawei Mate8",
+        "isSmart"   : "true",
+        "releaseTime" : "2015-12-09 10:00:00",
+        "price"   : 4988,
+        "apps"    : [{"name" : "Alipay"}, {"name" : "CMB"}, {"name" : "NetEase Music"}, {"name" : "Tinder"}, {"name" : "WeChat"}, {"name" : "Gaode Map"}],
+        "manufacturer": {
+          "name"  : "Huawei",
+          "country" : "China"
+        }
+      },
+      {
+        "device"    : "Mi Max",
+        "isSmart"   : "true",
+        "releaseTime" : "2015-04-17 10:00:00",
+        "price"   : 1650,
+        "apps"    : [{"name" : "MiChat"}, {"name" : "Didi"}, {"name" : "CMB"}],
+        "manufacturer": {
+          "name"  : "Mi",
+          "country" : "China"
+        }
+      },
+      {
+        "device"    : "Samsung S6 Edge",
+        "isSmart"   : "true",
+        "releaseTime" : "2015-12-09 10:00:00",
+        "price"   : 3850,
+        "apps"    : [{"name" : "Taobao"}, {"name" : "Didi"}, {"name" : "Radio"}, {"name" : "360 Camera"}],
+        "manufacturer": {
+          "name"  : "Samsung",
+          "country" : "South Korea"
+        }
+      },
+      {
+        "device"    : "Nokia 1000",
+        "isSmart"   : "false",
+        "releaseTime" : "2011-08-26 10:00:00",
+        "price"   : 200,
+        "apps"    : [{"name" : "System Phone"}, {"name" : "Radio"}],
+        "manufacturer": {
+          "name"  : "Nokia",
+          "country" : "Finland"
+        }
+      }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "vuex作为状态管理",
+  "main": "store.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "store",
+    "getters",
+    "mutations",
+    "actions",
+    "vue",
+    "vuex"
+  ],
+  "author": "BLUE",
+  "license": "ISC"
+}

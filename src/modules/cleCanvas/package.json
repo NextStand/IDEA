@@ -1,0 +1,15 @@
+{
+  "name": "clecanvas",
+  "version": "1.0.0",
+  "description": "基于canvas的粒子动图",
+  "main": "cleCanvas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "粒子"
+  ],
+  "author": "BLUE",
+  "license": "ISC"
+}
