@@ -82,6 +82,9 @@ export default {
       //显示编辑器
       this.editor.setShow();
     },
+    clear(){
+      this.editor.cleardoc('cleardoc')
+    },
     destroy() {
       //销毁实例
       this.editor.destroy();
